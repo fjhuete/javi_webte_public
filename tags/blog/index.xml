@@ -1,47 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on Javi Webte</title>
+    <title>Blog on Javi Webte</title>
     <link>/tags/blog/</link>
-    <description>Recent content in blog on Javi Webte</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 30 Sep 2024 12:26:54 +0200</lastBuildDate><atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Blog on Javi Webte</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Sep 2024 12:26:54 +0200</lastBuildDate>
+    <atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Presentación</title>
       <link>/posts/about/</link>
       <pubDate>Mon, 30 Sep 2024 12:26:54 +0200</pubDate>
-      
       <guid>/posts/about/</guid>
-      <description>Soy Francisco Javier Huete, estudiante del Ciclo Formativo de Grado Superior de Administración de Sistemas Informáticos en Red (ASIR) en el I.E.S. Gonzalo Nazareno de Dos Hermanas (Sevilla) y en este blog podrás encontrar muchas de las prácticas a las que me estoy enfrentando durante mis estudios.
-Si quieres contactar conmigo, puedes hacerlo a través de mi correo electrónico.</description>
+      <description>&lt;p&gt;Soy Francisco Javier Huete, estudiante del Ciclo Formativo de Grado Superior de Administración de Sistemas Informáticos en Red (ASIR) en el &lt;a href=&#34;https://blogsaverroes.juntadeandalucia.es/iesgonzalonazareno/&#34;&gt;I.E.S. Gonzalo Nazareno&lt;/a&gt; de Dos Hermanas (Sevilla) y en este blog podrás encontrar muchas de las prácticas a las que me estoy enfrentando durante mis estudios.&lt;/p&gt;&#xA;&lt;p&gt;Si quieres contactar conmigo, puedes hacerlo a través de mi &lt;a href=&#34;mailto:fjhuete.m@gmail.com&#34;&gt;correo electrónico&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Estilos</title>
       <link>/posts/estilos/</link>
       <pubDate>Mon, 30 Sep 2024 12:26:49 +0200</pubDate>
-      
       <guid>/posts/estilos/</guid>
-      <description>En esta página se muestran algunos de los estilos que se usan en Javi Webte.
-Estilos de texto Aquí leerás texto en negrita, cursiva o monospace.
-También podrás ver citas.
-A veces podrás encontrar
-bloques de código como este O imágenes
-Puede que también se usen tablas
-Columna 1 Columna 2 Columna 3 Fila 1 Fila 1 Fila 1 Fila 2 Fila 2 Fila 2 Incluso puedes encontrar:
-Listas de tareas </description>
+      <description>&lt;p&gt;En esta página se muestran algunos de los estilos que se usan en Javi Webte.&lt;/p&gt;&#xA;&lt;h1 id=&#34;estilos-de-texto&#34;&gt;Estilos de texto&lt;/h1&gt;&#xA;&lt;p&gt;Aquí leerás texto en &lt;strong&gt;negrita&lt;/strong&gt;, &lt;em&gt;cursiva&lt;/em&gt; o &lt;code&gt;monospace&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;También podrás ver citas.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;A veces podrás encontrar&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;bloques de&#xA;código&#xA;como este&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;O imágenes&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/gokarna.jpg&#34; alt=&#34;Con texto alternativo&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Puede que también se usen tablas&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Columna 1&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Columna 2&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Columna 3&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Fila 1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Fila 1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Fila 1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Fila 2&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Fila 2&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Fila 2&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;Incluso puedes encontrar:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mi Primer Post</title>
       <link>/posts/mi-primer-post/</link>
       <pubDate>Mon, 30 Sep 2024 12:21:28 +0200</pubDate>
-      
       <guid>/posts/mi-primer-post/</guid>
-      <description>Bienvenida Este es un post de bienvenida a mi nueva web.
-En esta página puedes encontrar:
-Home Página de bienvenida Página con ejemplos de estilos Sobre mi Gracias por la visita.</description>
+      <description>&lt;h1 id=&#34;bienvenida&#34;&gt;Bienvenida&lt;/h1&gt;&#xA;&lt;p&gt;Este es un post de &lt;strong&gt;bienvenida&lt;/strong&gt; a mi nueva web.&lt;/p&gt;&#xA;&lt;p&gt;En esta página puedes encontrar:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;Home&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/posts/mi-primer-post/&#34;&gt;Página de bienvenida&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/posts/estilos&#34;&gt;Página con ejemplos de estilos&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/posts/about&#34;&gt;Sobre mi&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Gracias&lt;/strong&gt; por la visita.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
