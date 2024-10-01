@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javi Webte</title>
+    <link>/</link>
+    <description>Recent content on Javi Webte</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 30 Sep 2024 12:26:54 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presentación</title>
+      <link>/posts/about/</link>
+      <pubDate>Mon, 30 Sep 2024 12:26:54 +0200</pubDate>
+      
+      <guid>/posts/about/</guid>
+      <description>Soy Francisco Javier Huete, estudiante del Ciclo Formativo de Grado Superior de Administración de Sistemas Informáticos en Red (ASIR) en el I.E.S. Gonzalo Nazareno de Dos Hermanas (Sevilla) y en este blog podrás encontrar muchas de las prácticas a las que me estoy enfrentando durante mis estudios.
+Si quieres contactar conmigo, puedes hacerlo a través de mi correo electrónico.</description>
+    </item>
+    
+    <item>
+      <title>Estilos</title>
+      <link>/posts/estilos/</link>
+      <pubDate>Mon, 30 Sep 2024 12:26:49 +0200</pubDate>
+      
+      <guid>/posts/estilos/</guid>
+      <description>En esta página se muestran algunos de los estilos que se usan en Javi Webte.
+Estilos de texto Aquí leerás texto en negrita, cursiva o monospace.
+También podrás ver citas.
+A veces podrás encontrar
+bloques de código como este O imágenes
+Puede que también se usen tablas
+Columna 1 Columna 2 Columna 3 Fila 1 Fila 1 Fila 1 Fila 2 Fila 2 Fila 2 Incluso puedes encontrar:
+Listas de tareas </description>
+    </item>
+    
+    <item>
+      <title>Mi Primer Post</title>
+      <link>/posts/mi-primer-post/</link>
+      <pubDate>Mon, 30 Sep 2024 12:21:28 +0200</pubDate>
+      
+      <guid>/posts/mi-primer-post/</guid>
+      <description>Bienvenida Este es un post de bienvenida a mi nueva web.
+En esta página puedes encontrar:
+Home Página de bienvenida Página con ejemplos de estilos Sobre mi Gracias por la visita.</description>
+    </item>
+    
+  </channel>
+</rss>
