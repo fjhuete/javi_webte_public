@@ -43,5 +43,14 @@ En esta página puedes encontrar:
 Home Página de bienvenida Página con ejemplos de estilos Sobre mi Gracias por la visita.</description>
     </item>
     
+    <item>
+      <title>Nueva Prueba</title>
+      <link>/posts/nueva-prueba/</link>
+      <pubDate>Mon, 30 Sep 2024 12:21:28 +0200</pubDate>
+      
+      <guid>/posts/nueva-prueba/</guid>
+      <description>Este post prueba el funcionamiento del script de actualización automático del blog.</description>
+    </item>
+    
   </channel>
 </rss>

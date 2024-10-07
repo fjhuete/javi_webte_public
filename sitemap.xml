@@ -2,19 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
-    <lastmod>2024-10-07T10:28:11+02:00</lastmod>
-  </url><url>
-    <loc>/posts/post-de-prueba/</loc>
-    <lastmod>2024-10-07T10:28:11+02:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2024-10-07T10:28:11+02:00</lastmod>
-  </url><url>
     <loc>/tags/blog/</loc>
     <lastmod>2024-09-30T12:26:54+02:00</lastmod>
   </url><url>
+    <loc>/</loc>
+    <lastmod>2024-09-30T12:26:54+02:00</lastmod>
+  </url><url>
     <loc>/tags/post/</loc>
+    <lastmod>2024-09-30T12:26:54+02:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
     <lastmod>2024-09-30T12:26:54+02:00</lastmod>
   </url><url>
     <loc>/posts/about/</loc>
@@ -27,6 +24,9 @@
     <lastmod>2024-09-30T12:26:49+02:00</lastmod>
   </url><url>
     <loc>/posts/mi-primer-post/</loc>
+    <lastmod>2024-09-30T12:21:28+02:00</lastmod>
+  </url><url>
+    <loc>/posts/nueva-prueba/</loc>
     <lastmod>2024-09-30T12:21:28+02:00</lastmod>
   </url><url>
     <loc>/categories/</loc>

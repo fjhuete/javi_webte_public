@@ -5,16 +5,7 @@
     <link>/posts/</link>
     <description>Recent content in Posts on Javi Webte</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 07 Oct 2024 10:28:11 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Post De Prueba</title>
-      <link>/posts/post-de-prueba/</link>
-      <pubDate>Mon, 07 Oct 2024 10:28:11 +0200</pubDate>
-      
-      <guid>/posts/post-de-prueba/</guid>
-      <description>Este contenido es un post de prueba para comprobar el funcionamiento del script de actualización del blog.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 30 Sep 2024 12:26:54 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Presentación</title>
       <link>/posts/about/</link>
@@ -50,6 +41,15 @@ Listas de tareas </description>
       <description>Bienvenida Este es un post de bienvenida a mi nueva web.
 En esta página puedes encontrar:
 Home Página de bienvenida Página con ejemplos de estilos Sobre mi Gracias por la visita.</description>
+    </item>
+    
+    <item>
+      <title>Nueva Prueba</title>
+      <link>/posts/nueva-prueba/</link>
+      <pubDate>Mon, 30 Sep 2024 12:21:28 +0200</pubDate>
+      
+      <guid>/posts/nueva-prueba/</guid>
+      <description>Este post prueba el funcionamiento del script de actualización automático del blog.</description>
     </item>
     
   </channel>
