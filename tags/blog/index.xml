@@ -5,7 +5,17 @@
     <link>/tags/blog/</link>
     <description>Recent content in blog on Javi Webte</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 30 Sep 2024 12:26:54 +0200</lastBuildDate><atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Oct 2024 10:26:28 +0200</lastBuildDate><atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prueba: Introducción a la Implantación de Aplicaciones Web</title>
+      <link>/posts/prueba/</link>
+      <pubDate>Mon, 14 Oct 2024 10:26:28 +0200</pubDate>
+      
+      <guid>/posts/prueba/</guid>
+      <description>Prueba de la asignatura Nombre Francisco Javier Huete Mejías
+Foto </description>
+    </item>
+    
     <item>
       <title>Presentación</title>
       <link>/posts/about/</link>
