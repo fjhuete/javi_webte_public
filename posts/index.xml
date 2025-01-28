@@ -53,5 +53,15 @@ En esta página puedes encontrar:
 Home Página de bienvenida Página con ejemplos de estilos Sobre mi Gracias por la visita.</description>
     </item>
     
+    <item>
+      <title>Conceptos de gestión de paquetería en Debian</title>
+      <link>/posts/administracion-de-sistemas/conceptos-basicos-apt/</link>
+      <pubDate>Mon, 30 Sep 2024 01:00:00 +0200</pubDate>
+      
+      <guid>/posts/administracion-de-sistemas/conceptos-basicos-apt/</guid>
+      <description>Trabajo con apt, aptitude, dpkg Qué acciones consigo al realizar apt update y apt upgrade El comando apt update revisa los repositorios del sistema operativo en busca de nuevas versiones de los paquetes instalados en el equipo. Posteriormente, el comando apt upgrade ejecuta la actualización de aquellos paquetes de los que haya una versión más reciente disponible.
+Antes de instalar un nuevo paquete o de actualizar a su versión más reciente, el gestor de paquetes apt consulta el fichero Releases del repositorio para comprobar que el hash corresponde al del propio paquete y garantizar así que no ha sido modificado desde que se distribuye por parte del mantenedor hasta que llega al equipo del usuario.</description>
+    </item>
+    
   </channel>
 </rss>
